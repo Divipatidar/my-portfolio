@@ -16,12 +16,12 @@ function Footer() {
        <li><a href='#contact'>Contact</a></li>
     </ul>
     <div className='footer_social'>
-      <a href='https://wa.me/+917869840683'><BsWhatsapp/></a>
-      <a href='https://instagram.com/divyapatidar442?igshid=NzZlODBkYWE4Ng=='><AiOutlineInstagram/></a>
-      <a href='https://www.linkedin.com/in/divya-patidar-480578202'><AiFillLinkedin/></a>
-      <a href='https://github.com/Divipatidar'><AiFillGithub/></a>
-      <a href='https://x.com/Divya7971774932?t=nD4CreFCRlH-PrgEazfR_g&s=08'><AiFillTwitterCircle/></a>
-      <a href='https://auth.geeksforgeeks.org/user/divipatidar28178'><SiGeeksforgeeks/></a>
+      <a href='https://wa.me/+917869840683' target="_blank" ><BsWhatsapp/></a>
+      <a href='https://instagram.com/divyapatidar442?igshid=NzZlODBkYWE4Ng==' target="_blank"><AiOutlineInstagram/></a>
+      <a href='https://www.linkedin.com/in/divya-patidar-480578202' target="_blank"><AiFillLinkedin/></a>
+      <a href='https://github.com/Divipatidar' target="_blank"><AiFillGithub/></a>
+      <a href='https://x.com/Divya7971774932?t=nD4CreFCRlH-PrgEazfR_g&s=08' target="_blank"><AiFillTwitterCircle/></a>
+      <a href='https://auth.geeksforgeeks.org/user/divipatidar28178' target="_blank"><SiGeeksforgeeks/></a>
     </div>
     
   </footer>

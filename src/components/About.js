@@ -18,11 +18,11 @@ function About() {
              <div className='about_cards'>
                 <article className='about_card'>
                     <GiSkills className='about_icon'/>
-                    <h5>Skills</h5>
+                    <a href='#skill'> <h5>Skills</h5></a>
                 </article>
                 <article className='about_card'>
                     <FaDiagramProject className='about_icon'/>
-                    <h5>Projects</h5>
+                    <a href='#project'><h5>Projects</h5></a>
                 </article>
              </div>
              <p> I'm Divya Patidar, a recent Computer Science & Engineering graduate from JIT Borawan. Originally from Manawar, I'm an enthusiastic fresher with a passion for crafting high-quality products that cater to customer needs. I have a strong appetite for learning new technologies to enhance my ability to create exceptional software. While I genuinely enjoy all aspects of my work, my true passion lies in hands-on software development. While I don't mind estimating projects for clients, I find the actual process of creating software to be the most fulfilling part of my journey.
