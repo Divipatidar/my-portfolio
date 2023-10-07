@@ -25,7 +25,7 @@ function Projects() {
            </div>
            <h3>My-Portfolio</h3>
            <div className='item_cta'>
-           <a href='#' className='btn' target='_blank'>Github</a>
+           <a href='https://github.com/Divipatidar/my-portfolio' className='btn' target='_blank'>Github</a>
            <a href='#' className='btn btn-primary' target='_blank'>Live Demo</a>
            </div>
         </article>
