@@ -2,7 +2,7 @@ import React from 'react'
 import './Projects.css'
 import todo from './todo.png'
 import portfolio from './portfolio.png'
-import amazone from './amazone.png'
+import Dkarts from './Dkarts.png'
 import brewery from './brewery.png'
 import calculator from './calculator.png'
 import survey from './survey.png'
@@ -14,12 +14,12 @@ function Projects() {
      <div className='container project_container'>
         <article className='project_item'>
            <div className='project_img'>
-              <img src={amazone} alt='img'/>
+              <img src={Dkarts} alt='img'/>
            </div>
-           <h3>Amazone-Clone</h3>
+           <h3>E-commerce Website : Dkarts</h3>
           <div className='item_cta'>
-          <a href='https://github.com/Divipatidar/Amazone-clone' className='btn' target='_blank'>Github</a>
-           <a href='https://github.com/Divipatidar/Amazone-clone' className='btn btn-primary' target='_blank'>Live Demo</a>
+          <a href='https://github.com/Divipatidar/E-commerce-website-Dkarts' className='btn' target='_blank'>Github</a>
+           <a href='https://github.com/Divipatidar/E-commerce-website-Dkarts' className='btn btn-primary' target='_blank'>Live Demo</a>
           </div>
         </article>
         <article className='project_item'>
