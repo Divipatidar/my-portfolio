@@ -49,10 +49,8 @@ footer a{
    .footer_social{
     margin-bottom: 2.6rem;
    }
-<<<<<<< HEAD
 }
-=======
-}
+
 @media screen and (max-width: 360px) {
     footer {
         padding: 2rem 0;
@@ -76,4 +74,3 @@ footer a{
         border-radius: 0.5rem;
     }
 }
->>>>>>> b63e5e3 (changes)
