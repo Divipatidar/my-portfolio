@@ -70,3 +70,30 @@ header {
         display: none;
     }
 }
+<<<<<<< HEAD
+=======
+@media screen and (max-width: 360px) {
+    header {
+        height: 90vh;
+        padding-top: 5rem;
+    }
+    .header_container {
+        padding: 0 1rem;
+    }
+    .cta {
+        margin-top: 2rem;
+        gap: 0.8rem;
+    }
+    .me {
+        width: 12rem;
+        height: 400px;
+        left: calc(50% - 6rem);
+        margin-top: 3rem;
+        border-radius: 10rem 10rem 0 0;
+    }
+    .me img {
+        width: 120px;
+        height: 180px;
+    }
+}
+>>>>>>> b63e5e3 (changes)

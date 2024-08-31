@@ -82,3 +82,28 @@
         margin:1.5rem 0;
      }
 }
+<<<<<<< HEAD
+=======
+@media screen and (max-width: 360px) {
+    .about_me {
+        width: 80%;
+        margin: 0 auto 2rem;
+    }
+    .about_cards {
+        grid-template-columns: 1fr;
+        gap: 0.5rem;
+    }
+    .about_content {
+        text-align: center;
+    }
+    .about_content p {
+        margin: 1rem 0;
+    }
+    .about_card h5 {
+        font-size: 0.85rem;
+    }
+    .about_icon {
+        font-size: 1.2rem;
+    }
+}
+>>>>>>> b63e5e3 (changes)

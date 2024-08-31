@@ -3,6 +3,11 @@ import './Projects.css'
 import todo from './todo.png'
 import portfolio from './portfolio.png'
 import Dkarts from './Dkarts.png'
+<<<<<<< HEAD
+=======
+import FluentUp from './Fluent-Up.jpeg'
+import MindMaple from './MindMaple.jpeg'
+>>>>>>> b63e5e3 (changes)
 import brewery from './brewery.png'
 import calculator from './calculator.png'
 import survey from './survey.png'
@@ -14,6 +19,29 @@ function Projects() {
      <div className='container project_container'>
         <article className='project_item'>
            <div className='project_img'>
+<<<<<<< HEAD
+=======
+              <img src={FluentUp} alt='img'/>
+           </div>
+           <h3>FluentUp - AI-Powered English Fluency App</h3>
+          <div className='item_cta'>
+          <a href='https://github.com/Divipatidar/Fluent-Up' className='btn' target='_blank'>Github</a>
+           <a href='https://fluent-up.vercel.app' className='btn btn-primary' target='_blank'>Live Demo</a>
+          </div>
+        </article>
+        <article className='project_item'>
+           <div className='project_img'>
+              <img src={MindMaple} alt='img'/>
+           </div>
+           <h3>Mindmaple - Mental Health AI Chat Assistant</h3>
+          <div className='item_cta'>
+          <a href='https://github.com/Divipatidar/Mind-Maple' className='btn' target='_blank'>Github</a>
+           <a href='https://mind-maple-steel.vercel.app' className='btn btn-primary' target='_blank'>Live Demo</a>
+          </div>
+        </article>
+        <article className='project_item'>
+           <div className='project_img'>
+>>>>>>> b63e5e3 (changes)
               <img src={Dkarts} alt='img'/>
            </div>
            <h3>E-commerce Website : Dkarts</h3>

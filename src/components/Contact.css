@@ -58,4 +58,27 @@ input,textarea{
     .container.contact_container{
         width: var(--container-width-sm);
      }
+<<<<<<< HEAD
 }
+=======
+}
+@media screen and (max-width: 360px) {
+    .contact_container {
+        width: 90%;
+        grid-template-columns: 1fr;
+        gap: 1.5rem;
+    }
+    .contact_option {
+        padding: 1rem;
+    }
+    .contact_icon {
+        font-size: 1.3rem;
+    }
+    .contact_option a {
+        font-size: 0.75rem;
+    }
+    input, textarea {
+        padding: 1rem;
+    }
+}
+>>>>>>> b63e5e3 (changes)

@@ -54,4 +54,27 @@
         width: 100%;
         padding: 2rem 1rem;
     }
+<<<<<<< HEAD
 }
+=======
+}
+@media screen and (max-width: 360px) {
+    .skill_container {
+        gap: 0.8rem;
+    }
+    .skill_container > div {
+        padding: 1.5rem 0.8rem;
+        border-radius: 1.5rem;
+    }
+    .skill_content {
+        grid-template-columns: 1fr;
+        row-gap: 1.5rem;
+    }
+    .skill_detail {
+        gap: 0.8rem;
+    }
+    .skill_icons {
+        margin-top: 4px;
+    }
+}
+>>>>>>> b63e5e3 (changes)

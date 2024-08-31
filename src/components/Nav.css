@@ -27,4 +27,21 @@ nav a:hover{
 nav a.active{
     background:var(--color-primary) ;
     color:var(--color-bg) ;
+<<<<<<< HEAD
 }
+=======
+}
+@media screen and (max-width: 360px) {
+    nav {
+        width: 90%;
+        bottom: 1rem;
+        padding: 0.5rem 1rem;
+        gap: 0.5rem;
+    }
+    nav a {
+        padding: 0.7rem;
+        font-size: 1rem;
+    }
+}
+
+>>>>>>> b63e5e3 (changes)

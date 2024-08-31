@@ -1,6 +1,10 @@
 .project_container{
     display: grid;
+<<<<<<< HEAD
     grid-template-columns: repeat(3,1fr);
+=======
+    grid-template-columns: repeat(2,1fr);
+>>>>>>> b63e5e3 (changes)
     gap: 2.5rem;
 }
 .project_item{
@@ -37,4 +41,27 @@
         grid-template-columns: 1fr;
         gap: 1rem;
      }
+<<<<<<< HEAD
 }
+=======
+}
+@media screen and (max-width: 360px) {
+    .project_container {
+        gap: 0.8rem;
+    }
+    .project_item {
+        padding: 1rem;
+        border-radius: 1.5rem;
+    }
+    .project_img {
+        border-radius: 1rem;
+    }
+    .project_item h3 {
+        margin: 1rem 0 1.5rem;
+    }
+    .item_cta {
+        gap: 0.8rem;
+        margin-bottom: 0.8rem;
+    }
+}
+>>>>>>> b63e5e3 (changes)
