@@ -70,8 +70,6 @@ header {
         display: none;
     }
 }
-<<<<<<< HEAD
-=======
 @media screen and (max-width: 360px) {
     header {
         height: 90vh;
@@ -96,4 +94,3 @@ header {
         height: 180px;
     }
 }
->>>>>>> b63e5e3 (changes)

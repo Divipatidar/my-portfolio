@@ -2,12 +2,9 @@ import React from 'react'
 import './Projects.css'
 import todo from './todo.png'
 import portfolio from './portfolio.png'
-import Dkarts from './Dkarts.png'
-<<<<<<< HEAD
-=======
+import Dkarts from './Dkarts.png'  
 import FluentUp from './Fluent-Up.jpeg'
 import MindMaple from './MindMaple.jpeg'
->>>>>>> b63e5e3 (changes)
 import brewery from './brewery.png'
 import calculator from './calculator.png'
 import survey from './survey.png'
@@ -19,8 +16,6 @@ function Projects() {
      <div className='container project_container'>
         <article className='project_item'>
            <div className='project_img'>
-<<<<<<< HEAD
-=======
               <img src={FluentUp} alt='img'/>
            </div>
            <h3>FluentUp - AI-Powered English Fluency App</h3>
@@ -41,7 +36,6 @@ function Projects() {
         </article>
         <article className='project_item'>
            <div className='project_img'>
->>>>>>> b63e5e3 (changes)
               <img src={Dkarts} alt='img'/>
            </div>
            <h3>E-commerce Website : Dkarts</h3>

@@ -58,10 +58,8 @@ input,textarea{
     .container.contact_container{
         width: var(--container-width-sm);
      }
-<<<<<<< HEAD
 }
-=======
-}
+
 @media screen and (max-width: 360px) {
     .contact_container {
         width: 90%;
@@ -81,4 +79,3 @@ input,textarea{
         padding: 1rem;
     }
 }
->>>>>>> b63e5e3 (changes)

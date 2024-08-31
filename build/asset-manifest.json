@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.31182ea4.css",
-    "main.js": "/static/js/main.66362e30.js",
+    "main.css": "/static/css/main.6971d1e0.css",
+    "main.js": "/static/js/main.d73e3ce5.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
     "static/media/todo.png": "/static/media/todo.b1ac42481669430c633d.png",
     "static/media/portfolio.png": "/static/media/portfolio.7f1fe9496482d98c04b0.png",
@@ -9,15 +9,17 @@
     "static/media/Dkarts.png": "/static/media/Dkarts.a0c86b11f6f4fa9873e6.png",
     "static/media/pik1.png": "/static/media/pik1.129d2fc4ff3bee59b3db.png",
     "static/media/pik2.png": "/static/media/pik2.e7652a2a8e5d5a45e0d9.png",
+    "static/media/MindMaple.jpeg": "/static/media/MindMaple.a21991f4155e2bdb5809.jpeg",
     "static/media/survey.png": "/static/media/survey.8cecba1e6ae323145ccd.png",
+    "static/media/Fluent-Up.jpeg": "/static/media/Fluent-Up.45532640087445c7faf2.jpeg",
     "static/media/brewery.png": "/static/media/brewery.75ae9816f9b2f415da08.png",
     "index.html": "/index.html",
-    "main.31182ea4.css.map": "/static/css/main.31182ea4.css.map",
-    "main.66362e30.js.map": "/static/js/main.66362e30.js.map",
+    "main.6971d1e0.css.map": "/static/css/main.6971d1e0.css.map",
+    "main.d73e3ce5.js.map": "/static/js/main.d73e3ce5.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.31182ea4.css",
-    "static/js/main.66362e30.js"
+    "static/css/main.6971d1e0.css",
+    "static/js/main.d73e3ce5.js"
   ]
 }
